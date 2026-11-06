@@ -6,7 +6,7 @@ Je participe directement au développement de la plateforme : Next.js, React, Ty
 
 ## Ce que je construis
 
-- **Gyroly** (code privé) : mise en vente guidée par vidéo, état de l'appareil évalué par l'IA, paiement sous séquestre.
+- **Gyroly** (en bêta privée, code privé) : mise en vente guidée par vidéo, état de l'appareil évalué par l'IA, paiement sous séquestre.
 - **Outillage pour agents de code** : garde-fous, revue et validation locale.
 
 ## Me joindre
