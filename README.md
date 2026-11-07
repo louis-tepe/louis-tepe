@@ -7,7 +7,7 @@ Je participe directement au développement de la plateforme : Next.js, React, Ty
 ## Ce que je construis
 
 - **Gyroly** (bêta privée, accès sur demande via [gyroly.com](https://gyroly.com) ; code privé) : mise en vente guidée par vidéo, état de l'appareil évalué par l'IA, paiement sous séquestre.
-- **[Mail Assistant](https://github.com/louis-tepe/mail-assistant-info)** : tri de ma boîte Gmail par IA, sans envoi ni suppression ; 95,5 % d'accord de catégorie sur 488 messages contrôlés à l'aveugle.
+- **[Mail Assistant](https://github.com/louis-tepe/mail-assistant-info)** : tri de ma boîte Gmail par IA, sans envoi ni suppression ; 95,5 % d'accord de catégorie sur 488 messages contrôlés à l'aveugle ([méthode](https://github.com/louis-tepe/mail-assistant-info#repères-mesurés)).
 - **Outillage pour agents de code** (privé) : garde-fous, revue et validation locale.
 
 L'essentiel de mon code est dans des dépôts privés : le graphe d'activité en rend compte, pas la liste des dépôts publics.
