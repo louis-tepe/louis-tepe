@@ -10,6 +10,8 @@ Je participe directement au développement de la plateforme : Next.js, React, Ty
 - **[Mail Assistant](https://github.com/louis-tepe/mail-assistant-info)** : tri de ma boîte Gmail par IA, sans envoi ni suppression ; 14 638 messages classés à la mise en service.
 - **Outillage pour agents de code** : garde-fous, revue et validation locale.
 
+L'essentiel de mon code est dans des dépôts privés : le graphe d'activité en rend compte, pas la liste des dépôts publics.
+
 ## Me joindre
 
 [LinkedIn](https://www.linkedin.com/in/tepe-louis/) · [gyroly.com](https://gyroly.com)
